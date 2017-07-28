@@ -1,0 +1,3 @@
+rootProject.name = 'Compare_ReactNative'
+
+include ':app'
